@@ -30,7 +30,7 @@ _Результат работы скрипта:_
 Processed strings: List(APPLE, BANANA, ELEPHANT)
 ```
 
-## Основные изменения в коде:
+## Преобразованный код:
 ```scala
 object StringProcessor {
   def processStrings(strings: List[String]): List[String] = {
