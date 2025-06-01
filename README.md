@@ -4,6 +4,7 @@
 Код написан в императивном стиле, использует изменяемые переменные и циклы. 
 Необходимо преобразовать этот код в функциональный стиль.
 
+## Исходный код:
 ```scala
 object StringProcessor {
   def processStrings(strings: List[String]): List[String] = {
